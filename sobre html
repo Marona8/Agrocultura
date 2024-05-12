@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOBRE</title>
+    <style>
+        p{
+            font-size: large;
+            text-align: justify;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 3%;
+            padding-right: 3%;
+            text-align:center;
+        }
+        li{
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        div.relative {
+           position: relative;
+           right: -5%;
+           width: 700px;
+           height: 200px;
+           border: 3px solid #459900;
+           font-family: 'Courier New', Courier, monospace;
+           font-size: 20px;
+           background-color:#dce6ceec; 
+        } 
+        div.absolute {
+          position: absolute;
+         top:-02%;
+         right: -140%;
+         width: 700px;
+         height: 200px;
+         border: 3px solid #459900;
+         font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        background-color:#dce6ceec; 
+        }
+        h1{
+            margin-right: 30%;
+            margin-left: 30%;
+            color:#459900;
+            text-align: center;
+            text-decoration: underline;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h2{
+            color: #459900;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            text-decoration: underline;
+            font-size: 30px;
+        }
+        .logo{
+            display: block;
+            margin: auto;
+            width: 20%;
+        }
+        .menu {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        text-align: center;
+        background-color: #459900;
+        padding: 15px;
+        border-radius: 30px;
+        display: flex;
+        flex-flow: row nowrap;
+       }
+      .link-menu {
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    flex-grow: 1;
+      }
+    </style>
+</head>
+<body>
+    <img class="logo" src="logo agrocultura.png">
+    <br>
+    <br>
+    <div class="menu">
+        <a href="index.html" class="link-menu">Home</a>
+        <a class="link-menu">Conteúdos</a>
+        <a class="link-menu">Sobre</a>
+        <a class="link-menu">Contato</a>
+    </div>
+    <br>
+    <br>
+    <h1>SOBRE O NOSSO SITE</h1>
+    <p>
+        A AgroCultura é uma empresa voltada para a inovação, que foca na geração de conhecimentos e tecnologias para a agropecuária brasileira.  A iniciativa tem o desafio constante de garantir ao Brasil segurança alimentar e posição de destaque no mercado internacional de alimentos, fibras e energia.Na execução dessa tarefa, em permanente diálogo com produtores, organizações científicas e lideranças do Estado e da sociedade civil, a AgroCultura se pauta porA Agrocultura se pauta por um compromisso contínuo com a sustentabilidade, integridade, qualidade e inovação em todas as suas operações. Estes princípios orientam todas as decisões e ações da empresa, desde a produção agrícola e pecuária até as relações com clientes, colaboradores, fornecedores e comunidades locais.
+        <ul>
+            <li>Responsabilidade social: Compromisso com a promoção do bem-estar das comunidades locais onde opera, através de iniciativas sociais, como programas de educação, saúde e desenvolvimento comunitário.</li>
+            <li>Respeito: Respeito pela diversidade, dignidade e direitos humanos de todos os indivíduos, incluindo funcionários, clientes, fornecedores e membros da comunidade.</li>
+            <li>Colaboração: Valorização do trabalho em equipe e parcerias estratégicas, tanto internas quanto externas, para alcançar objetivos comuns e compartilhados.</li>
+            <li>Crescimento sustentável: Busca por um crescimento equilibrado e sustentável, que leve em consideração não apenas os resultados financeiros, mas também os impactos sociais e ambientais a longo prazo.</li>
+            <li>Empreendedorismo: Encorajamento à criatividade, iniciativa e busca por oportunidades de negócio inovadoras e lucrativas.</li>
+        </ul>
+    
+    <h2>Objetivo</h2>
+    <p>
+Informar as pessoas sobre o plantio,solo e Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira. A Agrocultura busca constantemente inovar e aprimorar suas práticas, visando sempre a máxima eficiência e o menor impacto possível ao meio ambiente.
+    </p>
+    <div class="relative">VALORES<p> A Agrocultura está comprometida em operar de forma ambientalmente sustentável, promovendo a conservação dos recursos naturais e a preservação da biodiversidade. A empresa pauta suas atividades em princípios éticos e morais sólidos, mantendo transparência e honestidade em todas as suas relações comerciais e comunitárias.A excelência na produção de alimentos é primordial para a Agrocultura. Isso inclui a adoção de padrões rigorosos de qualidade em todas as etapas do processo produtivo.
+    </p>
+        <div class="absolute"> missão<p>A missão da Agrocultura é promover a produção sustentável de alimentos de alta qualidade por meio de práticas agrícolas e pecuárias inovadoras e responsáveis. Isso envolve o compromisso com a conservação dos recursos naturais, o bem-estar animal, a segurança alimentar e a contribuição para o desenvolvimento econômico das comunidades onde atua.</p></div>
+      </div>      
+
+
+
+
+
+
