@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultivo de Batata</title>
+    <style>
+        p{
+            font-size: large;
+            text-align: justify;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 3%;
+            padding-right: 3%;
+        }
+        li{
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            margin-right: 30%;
+            margin-left: 30%;
+            color:#459900;
+            text-align: center;
+            text-decoration: underline;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h2{
+            color: #459900;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            text-decoration: underline;
+        }
+        .img_mandioca{
+            width: 40%;
+            border-radius: 30px;
+            display: block;
+            margin: auto;
+        }
+        .logo{
+            display: block;
+            margin: auto;
+            width: 20%;
+        }
+        .menu{
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            background-color: #459900;
+            display: inline;
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
+            padding-left: 1%;
+            padding-right: 1%;
+            border-radius: 30px;
+        }
+        .link-menu{
+            text-decoration: none;
+            color: white;
+            padding: 9%;
+        }
+        .img_mandioca
+        {
+            border-color: #459900;
+        }
+    </style>
+</head>
+<body>
+    <img class="logo" src="logo agrocultura.png">
+    <br>
+    <br>
+    <div class="menu">
+        <a href="index.html" class="link-menu">Home</a>
+        <a class="link-menu">Conteúdos</a>
+        <a class="link-menu">Sobre</a>
+        <a class="link-menu">Contato</a>
+    </div>
+    <br>
+    <br>
+    <h1>CULTIVO DE ERVILHA</h1>
+    <img class="img_mandioca" src="img_ervilha.jfif">
+    <p>
+        A planta ervilha (Pisum sativum) é uma planta herbácea (legume) da qual existem mais de duzentas variedades, e de suas vagens são extraídos diversos tipos de grãos, chamada de ervilheira, tem a sua origem na Europa Meridional e Central. Produz ervilhas ricas em vitaminas K1, C, B1, A e B6.
+    </p>
+    <h2>
+        Plantio
+    </h2>
+    <p>
+        As ervilhas devem ser plantadas junto de uma parede, para que mais tarde possam ficar amarradas a uma posição elevada é necessário que as ervilhas sejam cultivadas em um solo homogêneo, bem drenado, fértil e rico em matéria orgânica, as melhores temperaturas para o cultivo da ervilha é entre 13 e 18 graus, temperaturas elevadas podem prejudicar muito o plantio.
+    </p>
+    <p>
+        Na hora de plantar ervilhas certifique-se que o solo esteja quente, solos úmido e frios podem apodrecer as sementes, as sementes devem ficar separadas umas das outras à distância de 8 centímetros e usar uma profundidade de 5 centímetros, colocar de 5 a 8 sementes e fechar com terra, recomenda-se colocar bambus para apoiar a planta, e pode ser colhida entre 80 a 100 dias de cultivo.
+    </p>
+    <p>
+        A melhor época para plantar ervilhas no inicio da primavera e o final do inverno, a irrigação poderá ser feita por aspersão, mas o excesso de água pode prejudicar o desenvolvimento das raízes e facilitar o ataque de fungos no solo. a rega deve ser leve e frequente entre a plantação e o florescimento da planta.
+   </p>
+    <h2>Importância do Ervilha</h2>
+    <p>
+        A ervilha é fonte de cálcio, mineral importante para a saúde e fortalecimento de ossos, dentes e unhas. O efeito preventivo contra a osteoporose pela presença das vitaminas de complexo B.    </p>
+    <ul>
+        <li>Produção de alimentos</li>
+        <li>Produção de bebidas</li>
+        <li>Produção em alta proporção</li>
+    
+    </ul>
+</body>
+</html>
